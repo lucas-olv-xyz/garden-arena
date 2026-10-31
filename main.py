@@ -8,7 +8,7 @@ pygame.init()
 pygame.mixer.init()
 screen_width, screen_height = 1500, 750
 screen = pygame.display.set_mode((screen_width, screen_height), pygame.DOUBLEBUF)
-pygame.display.set_caption("teste 1")
+pygame.display.set_caption("Garden Arena")
 game_over_img  = 'assets/gameover.png'
 start_screen_image = 'assets/tela.png'
 end_screen_image = pygame.image.load('assets/grats.png').convert_alpha()

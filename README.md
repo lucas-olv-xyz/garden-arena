@@ -4,7 +4,9 @@ A top-down shooter built in Python with Pygame for the **Pygame Community Spring
 
 **Result:** 9th overall out of 26 entries, and 4th in Engagement.
 
-![Title screen](docs/title-screen.png)
+[![Garden Arena gameplay](docs/title-screen.png)](https://www.youtube.com/watch?v=g5BVIqjZY-I)
+
+Click the image to watch 28 seconds of gameplay.
 
 ## The game
 
@@ -51,4 +53,4 @@ Everything lives in `main.py` (about 900 lines):
 
 ## Credits
 
-Code, game design and art by Lucas Oliveira.
+Code, game design, pixel art and music (three original tracks) by Lucas Oliveira.
